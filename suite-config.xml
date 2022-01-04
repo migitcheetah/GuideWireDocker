@@ -1,0 +1,7 @@
+<suite-config xmlns="http://guidewire.com/config/suite/suite-config">
+  <!-- This is a place holder, the url's will need to be updated to whatever you config in your environments, or other docker containers-->
+  <product env="docker" name="cc" url="http://localhost:8080/cc"/>
+  <product env="docker" name="pc" url="http://localhost:8180/pc"/>
+  <product env="docker" name="ab" url="http://localhost:8280/ab"/>
+  <product env="docker" name="bc" url="http://localhost:8580/bc"/>
+</suite-config>
